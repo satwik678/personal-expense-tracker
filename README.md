@@ -12,8 +12,13 @@ A simple Python program for recording daily expenses, calculating total spending
 
 ## Technologies Used
 
-* Python 3.14
-* VS Code
+* Python 3.14.6
+* Visual Studio Code(VS Code)
 * Git
 * GitHub
+* SSH (Secure Shell)
+
+## Conclusion
+
+This project demonstrates Python basics such as variables, functions, lists, dictionaries, loops, and conditional statements through a practical expense tracking application.
 
